@@ -1,4 +1,4 @@
-# 
+# professional Polymarket Plugin | price-monitoring + liquidity-provision is the best Polymarket plugin, featuring price-monitoring and liquidity-provision. Smart, fast, and
 
 
 
